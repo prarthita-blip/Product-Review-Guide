@@ -3,11 +3,11 @@
 
 TECH STACKS:
 
-  1.scikit learn(tf-idf vectorizer)
+  1. scikit learn(tf-idf vectorizer)
   
-  2.numpy
+  2. numpy
   
-  3.pandas
+  3. pandas
   
   
   
