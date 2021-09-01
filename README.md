@@ -17,9 +17,13 @@ DESCRIPTION:
     
     
 ML MODELS:
+
     1. Text Summariser: A tf-idf based text summariser that can provide a summary for large reviews.
+    
     2. Sentiment Analysis: ML model to predict if the sentiment of the review is positive/negative.
+    
     3. Fake review Detection: Almost 20% online reviews are fake. This model can predict whether a review is fake.
+    
 
 
 DATASET:
